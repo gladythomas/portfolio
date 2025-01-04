@@ -29,7 +29,7 @@
       "Monitored and updated the college website, ensuring timely and accurate content changes.",
       "Created new web pages and managed their deployment using FileZilla FTP client"
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/st.francis_college.png"
   },
   {
     "id": 3,
@@ -42,6 +42,6 @@
       "Communicated with customers to explain cashback offers.",
       "Assisted customers in resolving application-related issues."
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/sunera_technologies.jpg"
   }
 ]

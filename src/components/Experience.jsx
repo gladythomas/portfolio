@@ -16,21 +16,23 @@ const Experience = () => {
                 data-aos-duration="1000"
               >
                 <div className="left">
-                  <img src={`/assets/${data.imageSrc}`} alt="" />
+                  <img src={`/assets/${data.imageSrc}`} alt="" style={{width:"150px",height:"auto"}}/>
                 </div>
+
                 <div className="right">
-                  <h2>{data.role}</h2>
-                  <h4>
+                  <h4>{data.organisation}</h4>
+                  <h5>{data.role}</h5>
+                  <h5>
                     <span style={{ color: "yellowgreen" }}>
                       {data.startDate} {data.endDate}{" "}
                     </span>{" "}
                     <span style={{ color: "yellow" }}>{data.location}</span>
-                  </h4>
-                  <h5 style={{ color: "yellow" }}>{data.experiences[0]}</h5>
-                  <h5 style={{ color: "yellow" }}>{data.experiences[1]}</h5>
-                  <h5 style={{ color: "yellow" }}>{data.experiences[2]}</h5>
-                  <h5 style={{ color: "yellow" }}>{data.experiences[3]}</h5>
-                  <h5 style={{ color: "yellow" }}>{data.experiences[4]}</h5>
+                  </h5>
+                  <h7 style={{ color: "yellow" }}>{data.experiences[0]}</h7> <br/>
+                  <h7 style={{ color: "yellow" }}>{data.experiences[1]}</h7> <br/>
+                  <h7 style={{ color: "yellow" }}>{data.experiences[2]}</h7> <br/>
+                  <h7 style={{ color: "yellow" }}>{data.experiences[3]}</h7> <br/>
+                  <h7 style={{ color: "yellow" }}>{data.experiences[4]}</h7>
                   
                 </div>
               </div>
