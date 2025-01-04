@@ -1,40 +1,46 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
+    "role": "Junior Software Developer",
+    "organisation": "H-Mustafa's A to Z Private Limited",
+    "startDate": "October, 2024",
     "endDate": "Present",
-    "location": "CA,United State",
+    "location": "Kerala,India",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Created dynamic Item Master module to handle the product information for the Retail Sector . The developed module provided features like CRUD operations, real time search and filers, responsive UI and flawless backend binding through REST APIs.",
+
+      "ReactJs has been used for a responsive UI interfacing and also for storage of purchasing data in MongoDB. Error handling was further improved, secured communication with JWT, and email workflows optimized using dynamic templates in order to improve operational efficiency.",
+
+      "Built a queue-based pipeline for data processing to handle huge inflow across Redis and Bull,ensuring that bill data is processed sequentially without an overload."
     ],
     "imageSrc": "company/google.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Asst IT Admin",
+    "organisation": "St. Francis College for women",
+    "startDate": "Dec, 2020",
+    "endDate": "May, 2022",
+    "location": "Telangana, India",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Managed student employee data and maintained accurate records.",
+      "Coordinated student employee assignments and performed detailed mapping.",
+      "Prepared and submitted monthly employee check-in and check-out reports to the finance department",
+      "Monitored and updated the college website, ensuring timely and accurate content changes.",
+      "Created new web pages and managed their deployment using FileZilla FTP client"
     ],
     "imageSrc": "company/microsoft.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Contract Consultant",
+    "organisation": "Sunera Technologies",
+    "startDate": "Jun, 2019",
+    "endDate": "Aug, 2019",
+    "location": "Telangana, India",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Communicated with customers to explain cashback offers.",
+      "Assisted customers in resolving application-related issues."
     ],
     "imageSrc": "company/netflix.png"
   }

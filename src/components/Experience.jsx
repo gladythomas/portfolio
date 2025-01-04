@@ -28,6 +28,10 @@ const Experience = () => {
                   </h4>
                   <h5 style={{ color: "yellow" }}>{data.experiences[0]}</h5>
                   <h5 style={{ color: "yellow" }}>{data.experiences[1]}</h5>
+                  <h5 style={{ color: "yellow" }}>{data.experiences[2]}</h5>
+                  <h5 style={{ color: "yellow" }}>{data.experiences[3]}</h5>
+                  <h5 style={{ color: "yellow" }}>{data.experiences[4]}</h5>
+                  
                 </div>
               </div>
             </>
