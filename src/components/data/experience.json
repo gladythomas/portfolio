@@ -13,7 +13,7 @@
 
       "Built a queue-based pipeline for data processing to handle huge inflow across Redis and Bull,ensuring that bill data is processed sequentially without an overload."
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/ATOZ.png"
   },
   {
     "id": 2,
