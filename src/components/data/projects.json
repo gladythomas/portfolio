@@ -1,34 +1,35 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
+    "title": "E-Commerce",
     "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a fully functional e-commerce website using the MERN (MongoDB, Express.js, ReactJS, Node.js) stack. The platform includes user authentication, product listing, shopping cart, order management, and an integrated payment gateway for a seamless user experience. ",
+    "demo": "https://e-bharath.vercel.app/",
+    "source": "https://github.com/gladythomas/E-Bharath"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
+    "title": "MovieRevue-An ReactJs Web Application",
     "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A ReactJs Application with firebase to add , comment and can give ratings on movies for the end user using Hooks ( Mainly useState and useEffect ), React -loader - spinner CRUD operations from firestore.",
+    "demo": "https://movies-revue.vercel.app/",
+    "source": "https://github.com/gladythomas/MoviesRevue"
   },
   {
     "key": 3,
-    "title": "React Recipe",
+    "title": "The Fitclub -An Website for Gym using Reacts-js",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+
+    "description": "A Front End Web Page of Gym that shows the price and other details of the Gym. It mainly consists of react library as frontend in which it is divided into components . The data from a single component to other components are sent through props. React Routers are used to go from one page to another without refreshing the page.",
+    "demo": "hhttps://d17dcaa2.fitclub-5w2.pages.dev/",
+    "source": "https://github.com/gladythomas/The-FitClub"
   },
   {
     "key": 4,
-    "title": "React Firebase App",
+    "title": "AVL Tree Animation",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made with complete Javascript. The Main concept is that the project explains about a Datastructure called AVL Tree using Animations. ",
+    "demo": "https://avl-tree-animation.vercel.app/",
+    "source": "https://github.com/gladythomas/AVL-Tree-Animation"
   }
 ]

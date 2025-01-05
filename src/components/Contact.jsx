@@ -16,23 +16,25 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.instagram.com/" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.facebook.com/" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/glady-thomas-4b66a31b1/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          {/* <a href="https://www.google.com" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
-          </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          </a> */}
+
+          <a href="https://github.com/gladythomas" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
+
           <a
-            href="mailto:webdevmastery@gmail.com"
+            href="mailto:gladychaprath1999@gmail.com"
             target="_blank"
             className="items"
           >
