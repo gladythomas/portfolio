@@ -33,7 +33,7 @@ const Home = () => {
 
           <a
             href={pdf}
-            download="Post_for_Junior_software_Developer.pdf"
+            download="Software_Developer.pdf"
             className="btn btn-outline-warning my-3"
           >
             Download Resume
