@@ -21,7 +21,7 @@
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
 
     "description": "A Front End Web Page of Gym that shows the price and other details of the Gym. It mainly consists of react library as frontend in which it is divided into components . The data from a single component to other components are sent through props. React Routers are used to go from one page to another without refreshing the page.",
-    "demo": "hhttps://d17dcaa2.fitclub-5w2.pages.dev/",
+    "demo": "https://d17dcaa2.fitclub-5w2.pages.dev/",
     "source": "https://github.com/gladythomas/The-FitClub"
   },
   {
